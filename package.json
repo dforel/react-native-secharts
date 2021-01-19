@@ -1,14 +1,14 @@
 {
-  "name": "react-native-secharts",
-  "version": "1.7.0",
-  "description": "reactnative的echarts组件",
+  "name": "react-native-xecharts",
+  "version": "0.9.0",
+  "description": "reactnative的echarts组件-迁移维护版，原react-native-secharts作者不再维护了，所以暂时先迁过来自己加代码和管理pr",
   "main": "main/dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/shifeng1993/react-native-secharts"
+    "url": "https://github.com/dforel/react-native-xecharts"
   },
   "keywords": [
     "react-native-secharts",
@@ -23,7 +23,7 @@
   "author": "haise",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/shifeng1993/react-native-secharts/issues"
+    "url": "https://github.com/dforel/react-native-xecharts/issues"
   },
-  "homepage": "https://github.com/shifeng1993/react-native-secharts#readme"
+  "homepage": "https://github.com/dforel/react-native-xecharts#readme"
 }

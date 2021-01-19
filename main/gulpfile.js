@@ -1,7 +1,7 @@
 var gulp = require('gulp'),
   uglify = require('gulp-uglify'),
-  rename = require('gulp-rename'),
-  del = require('del');
+  rename = require('gulp-rename');
+  // del = require('del')
 
 gulp.task('echarts', function () {
   return gulp.src('src/lib/*.js') //需要操作的文件
